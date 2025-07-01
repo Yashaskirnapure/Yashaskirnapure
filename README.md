@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Yashaskirnapure/Yashaskirnapure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Yashas Kirnapure
-
 > “How long are you going to wait before you demand the best for yourself?”  
 > — *Epictetus*
