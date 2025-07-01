@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Yashas Kirnapure
+
+> “How long are you going to wait before you demand the best for yourself?”  
+> — *Epictetus*
