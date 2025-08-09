@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 > *“If you only do what you can do, you will never be more than you are now.”*  
-> — *Kung Fu Panda*
+> — *Master Shifu, Kung Fu Panda*
 
 
