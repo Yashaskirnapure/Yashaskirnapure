@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 > — *Master Shifu, Kung Fu Panda*
 
 
-## Stuff I use
-## Stuff I Work With
+## Stuff I Usually Work With
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
