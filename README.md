@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 > *“If you only do what you can do, you will never be more than you are now.”* 
 
-## Stuff I Usually Work With
+## Tools I Usually Work With
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
