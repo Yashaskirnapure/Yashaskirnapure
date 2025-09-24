@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> *“If you only do what you can do, you will never be more than you are now.”*
+> *“If you only do what you can do, you will never be more than what you are now.”*
 
 ___________
 
