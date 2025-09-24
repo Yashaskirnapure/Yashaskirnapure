@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 > *“If you only do what you can do, you will never be more than you are now.”* 
 
-## Tools I Usually Work With
-
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
